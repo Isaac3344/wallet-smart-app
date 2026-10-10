@@ -1,0 +1,7 @@
+{
+  "build": 37,
+  "version": "2.6.10",
+  "title": "Actualizaciones visibles en la app",
+  "notes": "La app vuelve a comprobar versiones al regresar, muestra un aviso dentro de Inicio aunque las notificaciones estén desactivadas y permite descargar la APK desde Novedades.",
+  "apkUrl": "https://raw.githubusercontent.com/Isaac3344/wallet-smart-app/app-updates/Wallet-Smart-latest.apk"
+}
