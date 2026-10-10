@@ -1,7 +1,7 @@
 {
-  "build": 37,
-  "version": "2.6.10",
-  "title": "Actualizaciones visibles en la app",
-  "notes": "La app vuelve a comprobar versiones al regresar, muestra un aviso dentro de Inicio aunque las notificaciones estén desactivadas y permite descargar la APK desde Novedades.",
+  "build": 38,
+  "version": "2.6.11",
+  "title": "Respaldo más seguro y estado de sincronización",
+  "notes": "Ahora verás la última sincronización confirmada y los cambios pendientes. El respaldo incluye cuentas, movimientos, metas, presupuestos y moneda, con pruebas automáticas para evitar pérdidas de información.",
   "apkUrl": "https://raw.githubusercontent.com/Isaac3344/wallet-smart-app/app-updates/Wallet-Smart-latest.apk"
 }
