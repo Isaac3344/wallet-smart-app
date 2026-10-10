@@ -1,7 +1,7 @@
 {
-  "build": 38,
-  "version": "2.6.11",
-  "title": "Respaldo más seguro y estado de sincronización",
-  "notes": "Ahora verás la última sincronización confirmada y los cambios pendientes. El respaldo incluye cuentas, movimientos, metas, presupuestos y moneda, con pruebas automáticas para evitar pérdidas de información.",
+  "build": 39,
+  "version": "2.6.12",
+  "title": "Mejor lectura del balance y los gráficos",
+  "notes": "Los valores de ingresos y gastos ya no se cortan, el buscador ocupa menos espacio y el gráfico mensual muestra claramente el día, el mes y el monto seleccionado.",
   "apkUrl": "https://raw.githubusercontent.com/Isaac3344/wallet-smart-app/app-updates/Wallet-Smart-latest.apk"
 }
