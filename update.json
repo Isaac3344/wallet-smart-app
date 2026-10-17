@@ -1,7 +1,7 @@
 {
-  "build": 39,
-  "version": "2.6.12",
-  "title": "Mejor lectura del balance y los gráficos",
-  "notes": "Los valores de ingresos y gastos ya no se cortan, el buscador ocupa menos espacio y el gráfico mensual muestra claramente el día, el mes y el monto seleccionado.",
+  "build": 40,
+  "version": "2.6.13",
+  "title": "Gastos detectados de bancos y billeteras",
+  "notes": "Wallet Smart puede detectar posibles compras, pagos, retiros y transferencias enviadas desde las aplicaciones que autorices. Cada gasto queda cifrado y pendiente para que lo revises antes de guardarlo.",
   "apkUrl": "https://raw.githubusercontent.com/Isaac3344/wallet-smart-app/app-updates/Wallet-Smart-latest.apk"
 }
